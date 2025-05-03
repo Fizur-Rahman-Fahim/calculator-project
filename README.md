@@ -2,7 +2,7 @@
 
 A sleek and modern calculator built with HTML, CSS, and JavaScript that includes calculation history functionality.
 
-![Calculator Preview](calculator-preview.png)
+![Calculator Preview](screenshots/image.png)
 
 ## Features
 
